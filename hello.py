@@ -5,7 +5,7 @@ print("Future Cloud Security Engineer")
 # Variables
 name = "Akash"
 age = 22
-course = "MCA"
+course = "MCA "
 print("name :", name)
 print("age :", age)
 print("course :", course)
